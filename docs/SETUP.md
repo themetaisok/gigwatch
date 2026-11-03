@@ -65,7 +65,7 @@ gigwatch writes the web page, `gigwatch.ics` and `feed.xml` into `docs/` and com
 
 ## 9. Add an artist
 
-Run `python -m gigwatch add-artist "Artist Name" --tier must-see`, or edit `config/artists.yaml`:
+Easiest, from your phone: open `config/artists.yaml` on github.com, tap the pencil icon, add a line, commit. The next run (within 3 hours) picks it up. Locally, run `python -m gigwatch add-artist "Artist Name" --tier must-see`, or edit `config/artists.yaml` by hand:
 
 ```yaml
 - name: Dixon
