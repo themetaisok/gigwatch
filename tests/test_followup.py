@@ -206,3 +206,12 @@ def test_first_run_flag_defaults_for_old_state_files(tmp_path):
     explicit = State(events={"a": {}}, first_run_done=False)
     explicit.save(p)
     assert State.load(p).is_first_run()
+
+
+def test_tm_test_listing_dropped():
+    from datetime import datetime, timezone
+    from gigwatch.sources.ticketmaster import map_event as parse_tm_event
+    raw = {"id": "x1", "name": "Test 11068686 case", "url": "https://www.ticketmaster.es/e/x1",
+           "dates": {"start": {"localDate": "2026-11-10", "localTime": "20:00:00"}},
+           "_embedded": {"venues": [{"name": "Razzmatazz 3", "city": {"name": "Barcelona"}}]}}
+    assert parse_tm_event(raw, datetime.now(timezone.utc)) is None

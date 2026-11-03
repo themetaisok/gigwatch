@@ -57,6 +57,8 @@ def map_event(e: dict[str, Any], now: datetime) -> Event | None:
         start = None
     if not eid or start is None:
         return None
+    if TEST_NAME_RE.search(e.get("name") or "") or e.get("test") is True:
+        return None  # Ticketmaster test listings ("Test 11068686 case") leak through includeTest=no
 
     emb = e.get("_embedded") or {}
     venues = emb.get("venues") or []
@@ -87,6 +89,9 @@ def map_event(e: dict[str, Any], now: datetime) -> Event | None:
         onsale_at=onsale, time_unknown=time_unknown, description=e.get("info") or "",
         sources_urls={LABEL: url or ""},
     )
+
+
+TEST_NAME_RE = re.compile(r"^\s*test\b|\btest event\b|\bdo not (buy|purchase)\b", re.I)
 
 
 class TicketmasterSource:
@@ -134,6 +139,7 @@ class TicketmasterSource:
     def fetch(self, cfg: Config, now: datetime) -> list[Event]:
         common = {
             "apikey": self.apikey, "countryCode": "ES", "classificationName": "Music",
+            "includeTest": "no",
             "locale": "*", "startDateTime": _fmt_utc(now),
             "endDateTime": _fmt_utc(now + timedelta(days=cfg.horizon_days)),
         }
