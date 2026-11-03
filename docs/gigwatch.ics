@@ -1,0 +1,736 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gigwatch//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:gigwatch
+BEGIN:VEVENT
+UID:94e6905d1305bbdf@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20261104T193000Z
+DTEND:20261104T223000Z
+SUMMARY:Pitbull\, Lil Jon
+LOCATION:Palau Sant Jordi\, Barcelona
+URL:https://www.ticketmaster.es/event/pitbull-im-back-entradas/1179106205
+END:VEVENT
+BEGIN:VEVENT
+UID:c36658b2f9fb59e3@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20261104T193000Z
+DTEND:20261104T223000Z
+SUMMARY:Kid Francescoli
+LOCATION:Sala Razzmatazz 2\, Barcelona
+URL:https://www.ticketmaster.es/event/kid-francescoli-entradas/464795640
+END:VEVENT
+BEGIN:VEVENT
+UID:a7f4ebdcf2af5506@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20261105T183000Z
+DTEND:20261105T213000Z
+SUMMARY:Michael Schenker Group
+LOCATION:Sala Razzmatazz 1\, Barcelona
+URL:https://www.ticketmaster.es/event/michael-schenker-msg-feat-robin-mcaul
+ ey-entradas/2073529778
+END:VEVENT
+BEGIN:VEVENT
+UID:b0ae8fc6a39bb793@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20261106T190000Z
+DTEND:20261106T220000Z
+SUMMARY:Romanthica\, Lex Lüger
+LOCATION:Razzmatazz 3\, Barcelona
+URL:https://www.ticketmaster.es/event/romanthica--lex-luger-entradas/136147
+ 4269
+END:VEVENT
+BEGIN:VEVENT
+UID:5e9d8e93085c33df@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20261107T190000Z
+DTEND:20261107T220000Z
+SUMMARY:Joe Bonamassa
+LOCATION:Sant Jordi Club\, Barcelona
+URL:https://www.ticketmaster.es/event/joe-bonamassa-2026-europe-tour-entrad
+ as/707911981
+END:VEVENT
+BEGIN:VEVENT
+UID:1bb563916b4c38c0@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20261108T193000Z
+DTEND:20261108T223000Z
+SUMMARY:Chameleons
+LOCATION:Sala Razzmatazz 2\, Barcelona
+URL:https://www.ticketmaster.es/event/chameleons-entradas/1206234514
+END:VEVENT
+BEGIN:VEVENT
+UID:43e44cc2d7476a64@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Test 11068686 case
+LOCATION:Razzmatazz 3\, Barcelona
+URL:https://www.ticketmaster.es/event/test-11068686-case-entradas/152103644
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2802df3a3222e63d@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20261110T200000Z
+DTEND:20261110T230000Z
+SUMMARY:Pete & Bas
+LOCATION:WOLF\, Barcelona
+URL:https://www.ticketmaster.es/event/pete--bas-entradas/648869583
+END:VEVENT
+BEGIN:VEVENT
+UID:dc60588c3336a5f3@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20261111T193000Z
+DTEND:20261111T223000Z
+SUMMARY:Michelle David & The True-tones
+LOCATION:La 2 de Apolo\, Barcelona
+URL:https://www.ticketmaster.es/event/michelle-david--the-true-tones-entrad
+ as/896335713
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:1bb6c4707b39be0d@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20261113T193000Z
+DTEND:20261113T223000Z
+SUMMARY:Arlo Parks\, Baird
+LOCATION:Sala Apolo\, Barcelona
+URL:https://www.ticketmaster.es/event/arlo-parks-desire-tour-entradas/50269
+ 5994
+END:VEVENT
+BEGIN:VEVENT
+UID:9ef2f088db77fc17@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20261113T203000Z
+DTEND:20261113T233000Z
+SUMMARY:Interfront\, Último destino
+LOCATION:Sala Laut\, Barcelona
+URL:https://www.ticketmaster.es/event/interfront-entradas/1169909316
+END:VEVENT
+BEGIN:VEVENT
+UID:74c6cc5d60781de0@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20261114T183000Z
+DTEND:20261114T213000Z
+SUMMARY:Elyella
+LOCATION:Sala Razzmatazz 1\, Barcelona
+URL:https://www.universe.com/events/elyella-lo-mas-importante-barcelona-tic
+ kets-MRK0W1?ref=ticketmaster
+END:VEVENT
+BEGIN:VEVENT
+UID:40e621c8b9d30f9e@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20261114T225900Z
+DTEND:20261115T015900Z
+SUMMARY:Candy Bcn
+LOCATION:Sala Input\, Barcelona
+URL:https://www.ticketmaster.es/event/candy-entradas/189570033
+END:VEVENT
+BEGIN:VEVENT
+UID:54a4b8ac29271dd1@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20261116T193000Z
+DTEND:20261116T223000Z
+SUMMARY:Jack & Jack
+LOCATION:Sala Razzmatazz 2\, Barcelona
+URL:https://www.ticketmaster.es/event/jack--jack-syn-anti-europe-2026-entra
+ das/703919037
+END:VEVENT
+BEGIN:VEVENT
+UID:49df8f60360bc807@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20261117T200000Z
+DTEND:20261117T230000Z
+SUMMARY:Kidd Voodoo
+LOCATION:Sala Razzmatazz 2\, Barcelona
+URL:https://www.ticketmaster.es/event/kidd-voodoo-entradas/84300798
+END:VEVENT
+BEGIN:VEVENT
+UID:85afd08b469f7b71@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20261118T193000Z
+DTEND:20261118T223000Z
+SUMMARY:Artemas\, Henry Morris\, Ella Boh
+LOCATION:Sala Apolo\, Barcelona
+URL:https://www.ticketmaster.es/event/artemas-lovercore-getting-up-to-no-go
+ od-tour-entradas/358512585
+END:VEVENT
+BEGIN:VEVENT
+UID:44b1a9e425d97f9a@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20261118T200000Z
+DTEND:20261118T230000Z
+SUMMARY:Sharp Pins
+LOCATION:Sala Upload - Poble Espanyol\, Barcelona
+URL:https://www.ticketmaster.es/event/sharp-pins-entradas/635116838
+END:VEVENT
+BEGIN:VEVENT
+UID:e326c071b73d75c1@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20261118T200000Z
+DTEND:20261118T230000Z
+SUMMARY:LAGOS
+LOCATION:Sala Razzmatazz 1\, Barcelona
+URL:https://www.ticketmaster.es/event/lagos-entradas/2031234774
+END:VEVENT
+BEGIN:VEVENT
+UID:44e9933226221200@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20261118T202000Z
+DTEND:20261118T232000Z
+SUMMARY:Razorlight
+LOCATION:WOLF\, Barcelona
+URL:https://www.ticketmaster.es/event/razorlight-entradas/1756010057
+END:VEVENT
+BEGIN:VEVENT
+UID:ea810a6ed07fabc2@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Kamelot\, Exit Eden\, Temperance
+LOCATION:Sala Razzmatazz 1\, Barcelona
+URL:https://www.ticketmaster.es/event/kamelot--exit-eden--temperance-entrad
+ as/1764172544
+END:VEVENT
+BEGIN:VEVENT
+UID:35d44aafe4aafb57@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20261122T193000Z
+DTEND:20261122T223000Z
+SUMMARY:Polyphia\, Perturbator\, RJ Pasin
+LOCATION:Sala Razzmatazz 1\, Barcelona
+URL:https://www.ticketmaster.es/event/polyphia-be-not-afraid-world-tour-ent
+ radas/1150301783
+END:VEVENT
+BEGIN:VEVENT
+UID:6ee2efddcf890af6@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20261123T193000Z
+DTEND:20261123T223000Z
+SUMMARY:MNEK
+LOCATION:Sala Razzmatazz 3\, Barcelona
+URL:https://www.ticketmaster.es/event/mnek-the-bulldozer-tour-entradas/1786
+ 165064
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:affafa80220d002a@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20261124T193000Z
+DTEND:20261124T223000Z
+SUMMARY:Kingfishr
+LOCATION:Sala Apolo\, Barcelona
+URL:https://www.ticketmaster.es/event/kingfishr-europe-2026-entradas/107098
+ 9082
+END:VEVENT
+BEGIN:VEVENT
+UID:c007e5be7f46c816@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20261126T200000Z
+DTEND:20261126T230000Z
+SUMMARY:Michelle Gurevich
+LOCATION:WOLF\, Barcelona
+URL:https://www.ticketmaster.es/event/michelle-gurevich-entradas/1011869480
+END:VEVENT
+BEGIN:VEVENT
+UID:92f818a8a44c72f5@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20261127T190000Z
+DTEND:20261127T220000Z
+SUMMARY:Ramoncín
+LOCATION:Luz de Gas\, Barcelona
+URL:https://www.ticketmaster.es/event/ramoncin-entradas/2068249950
+END:VEVENT
+BEGIN:VEVENT
+UID:876d6852c9188e5a@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20261127T193000Z
+DTEND:20261127T223000Z
+SUMMARY:Saramalacara
+LOCATION:La 2 de Apolo\, Barcelona
+URL:https://www.ticketmaster.es/event/saramalacara-entradas/66595146
+END:VEVENT
+BEGIN:VEVENT
+UID:34743b2c7186fc79@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20261129T190000Z
+DTEND:20261129T220000Z
+SUMMARY:Cazzu
+LOCATION:Sala Razzmatazz 1\, Barcelona
+URL:https://www.ticketmaster.es/event/cazzu-entradas/1523883707
+END:VEVENT
+BEGIN:VEVENT
+UID:f9aef9e779ad63b6@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20261129T200000Z
+DTEND:20261129T230000Z
+SUMMARY:Grecas
+LOCATION:Sant Jordi Club\, Barcelona
+URL:https://www.ticketmaster.es/event/grecas-entradas/585724091
+END:VEVENT
+BEGIN:VEVENT
+UID:ae2589db081ca545@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20261130T190000Z
+DTEND:20261130T220000Z
+SUMMARY:Cazzu
+LOCATION:Sala Razzmatazz 1\, Barcelona
+URL:https://www.ticketmaster.es/event/cazzu-entradas/214676890
+END:VEVENT
+BEGIN:VEVENT
+UID:3d3783e1379930a5@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20261202T200000Z
+DTEND:20261202T230000Z
+SUMMARY:Planta Industrial
+LOCATION:WOLF\, Barcelona
+URL:https://www.ticketmaster.es/event/planta-industrial-entradas/659145064
+END:VEVENT
+BEGIN:VEVENT
+UID:9bce3e6954731bfa@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20261205T193000Z
+DTEND:20261205T223000Z
+SUMMARY:The Sheepdogs
+LOCATION:La 2 de Apolo\, Barcelona
+URL:https://www.ticketmaster.es/event/the-sheepdogs-out-all-night-tour-entr
+ adas/1431066550
+END:VEVENT
+BEGIN:VEVENT
+UID:e466fd0e2eae68da@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20261210T193000Z
+DTEND:20261210T223000Z
+SUMMARY:Rikas
+LOCATION:La 2 de Apolo\, Barcelona
+URL:https://www.ticketmaster.es/event/rikas-entradas/1566470342
+END:VEVENT
+BEGIN:VEVENT
+UID:65b51cd9f008b6bc@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20261211T183000Z
+DTEND:20261211T213000Z
+SUMMARY:Diorama\, Bragolin\, Carrellee
+LOCATION:WOLF\, Barcelona
+URL:https://www.ticketmaster.es/event/diorama-bragolin-carrellee-%7C-dark-c
+ hristmas-festival-entradas/786436698
+END:VEVENT
+BEGIN:VEVENT
+UID:694828ec958a2fc9@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20261211T193000Z
+DTEND:20261211T223000Z
+SUMMARY:Sofia Coll
+LOCATION:Razzmatazz 3\, Barcelona
+URL:https://www.ticketmaster.es/event/sofia-coll-entradas/1695490875
+END:VEVENT
+BEGIN:VEVENT
+UID:7b767b4b8ad566d5@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20261211T200000Z
+DTEND:20261211T230000Z
+SUMMARY:Vida Records & Friends
+LOCATION:La 2 de Apolo\, Barcelona
+URL:https://www.ticketmaster.es/event/vida-records--friends-carlangas-entra
+ das/1168035568
+END:VEVENT
+BEGIN:VEVENT
+UID:ce9b5f9a6505ea14@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20261219T193000Z
+DTEND:20261219T223000Z
+SUMMARY:Jay Wheeler
+LOCATION:Palau Sant Jordi\, Barcelona
+URL:https://www.ticketmaster.es/event/jay-wheeler-entradas/863336232
+END:VEVENT
+BEGIN:VEVENT
+UID:e2ecc3f0c4d306d5@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20261219T200000Z
+DTEND:20261219T230000Z
+SUMMARY:JPFernandez
+LOCATION:Sala Razzmatazz 2\, Barcelona
+URL:https://www.ticketmaster.es/event/jpfernandez-entradas/112674273
+END:VEVENT
+BEGIN:VEVENT
+UID:6c74946bd4692a02@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270113T193000Z
+DTEND:20270113T223000Z
+SUMMARY:Martin Kohlstedt
+LOCATION:Sala Apolo\, Barcelona
+URL:https://www.ticketmaster.es/event/martin-kohlstedt-entradas/1915729380
+END:VEVENT
+BEGIN:VEVENT
+UID:bc61fb0e7e5817d0@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270115T201500Z
+DTEND:20270115T231500Z
+SUMMARY:Suicide Commando
+LOCATION:WOLF\, Barcelona
+URL:https://www.ticketmaster.es/event/suicide-commando-entradas/4814549
+END:VEVENT
+BEGIN:VEVENT
+UID:3126b1a4aec42a90@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270118T193000Z
+DTEND:20270118T223000Z
+SUMMARY:MICO
+LOCATION:Sala Razzmatazz 1\, Barcelona
+URL:https://www.ticketmaster.es/event/mico-inbetween-tour-entradas/56693980
+ 5
+END:VEVENT
+BEGIN:VEVENT
+UID:966cf9fee54433f6@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270121T200000Z
+DTEND:20270121T230000Z
+SUMMARY:Hard GZ
+LOCATION:Sala Razzmatazz 1\, Barcelona
+URL:https://www.ticketmaster.es/event/hard-gz-entradas/913727069
+END:VEVENT
+BEGIN:VEVENT
+UID:4216c2e98948e1cd@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270122T190000Z
+DTEND:20270122T220000Z
+SUMMARY:TINI
+LOCATION:Palau Sant Jordi\, Barcelona
+URL:https://www.ticketmaster.es/event/tini-entradas/2085966463
+END:VEVENT
+BEGIN:VEVENT
+UID:2c728b7a5d183e51@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270122T200000Z
+DTEND:20270122T230000Z
+SUMMARY:Hard GZ
+LOCATION:Sala Razzmatazz 1\, Barcelona
+URL:https://www.ticketmaster.es/event/hard-gz-entradas/1222769402
+END:VEVENT
+BEGIN:VEVENT
+UID:9bb228029a85e872@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270123T190000Z
+DTEND:20270123T220000Z
+SUMMARY:TINI
+LOCATION:Palau Sant Jordi\, Barcelona
+URL:https://www.ticketmaster.es/event/tini-entradas/1299380003
+END:VEVENT
+BEGIN:VEVENT
+UID:e5636c168723e546@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270123T200000Z
+DTEND:20270123T230000Z
+SUMMARY:Hard GZ
+LOCATION:Sala Razzmatazz 1\, Barcelona
+URL:https://www.ticketmaster.es/event/hard-gz-entradas/445631577
+END:VEVENT
+BEGIN:VEVENT
+UID:a4ec3b8063ed6acd@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270124T190000Z
+DTEND:20270124T220000Z
+SUMMARY:TINI
+LOCATION:Palau Sant Jordi\, Barcelona
+URL:https://www.ticketmaster.es/event/tini-entradas/1834852993
+END:VEVENT
+BEGIN:VEVENT
+UID:e8aea50bf85522b3@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270124T193000Z
+DTEND:20270124T223000Z
+SUMMARY:Dead Poet Society
+LOCATION:Sala Razzmatazz 2\, Barcelona
+URL:https://www.ticketmaster.es/event/dead-poet-society-entradas/1896509063
+END:VEVENT
+BEGIN:VEVENT
+UID:edeb3d2444b60c4a@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270128T200000Z
+DTEND:20270128T230000Z
+SUMMARY:Prince Daddy & the Hyena\, Yawners
+LOCATION:Sala Upload - Poble Espanyol\, Barcelona
+URL:https://www.ticketmaster.es/event/prince-daddy--the-hyena--yawners-entr
+ adas/541870918
+END:VEVENT
+BEGIN:VEVENT
+UID:73a19bdf0f6e3919@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270131T190000Z
+DTEND:20270131T220000Z
+SUMMARY:aespa
+LOCATION:Palau Sant Jordi\, Barcelona
+URL:https://www.ticketmaster.es/event/aespa-live-tour--synk--complaexity--i
+ n-barcelona-entradas/1901386458
+END:VEVENT
+BEGIN:VEVENT
+UID:a3437fa0d4f2d313@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270204T193000Z
+DTEND:20270204T223000Z
+SUMMARY:Joep Beving
+LOCATION:Paral·lel 62\, Barcelona
+URL:https://www.ticketmaster.es/event/joep-beving-entradas/1697929771
+END:VEVENT
+BEGIN:VEVENT
+UID:d94445644211ad75@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270206T191500Z
+DTEND:20270206T221500Z
+SUMMARY:MONO
+LOCATION:Sala Apolo\, Barcelona
+URL:https://www.ticketmaster.es/event/mono-entradas/769362742
+END:VEVENT
+BEGIN:VEVENT
+UID:053c95d2b135ea75@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270210T193000Z
+DTEND:20270210T223000Z
+SUMMARY:Amble
+LOCATION:Sala Apolo\, Barcelona
+URL:https://www.ticketmaster.es/event/amble-europe-2027-entradas/1615919488
+END:VEVENT
+BEGIN:VEVENT
+UID:fa098293548916da@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270210T193000Z
+DTEND:20270210T223000Z
+SUMMARY:Yendry
+LOCATION:La 2 de Apolo\, Barcelona
+URL:https://www.ticketmaster.es/event/yendry-como-agua-tour-entradas/158725
+ 7598
+END:VEVENT
+BEGIN:VEVENT
+UID:82dec4a79b4f924b@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270212T200000Z
+DTEND:20270212T230000Z
+SUMMARY:Reality
+LOCATION:WOLF\, Barcelona
+URL:https://www.ticketmaster.es/event/reality-entradas/140568485
+END:VEVENT
+BEGIN:VEVENT
+UID:805d2be2af20693a@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270215T190000Z
+DTEND:20270215T220000Z
+SUMMARY:UNDERTALE Symphony
+LOCATION:Paral·lel 62\, Barcelona
+URL:https://www.ticketmaster.es/event/undertale-the-determination-symphony-
+ world-tour-entradas/759316983
+END:VEVENT
+BEGIN:VEVENT
+UID:c9ca9257f22583c9@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270216T190000Z
+DTEND:20270216T220000Z
+SUMMARY:UNDERTALE Symphony
+LOCATION:Paral·lel 62\, Barcelona
+URL:https://www.ticketmaster.es/event/undertale-the-determination-symphony-
+ world-tour-entradas/855121625
+END:VEVENT
+BEGIN:VEVENT
+UID:8417380a5aa6a9fb@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270216T193000Z
+DTEND:20270216T223000Z
+SUMMARY:Jacob Banks
+LOCATION:Sala Apolo\, Barcelona
+URL:https://www.ticketmaster.es/event/jacob-banks-entradas/294978006
+END:VEVENT
+BEGIN:VEVENT
+UID:bf1d48c3b4faffe6@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270218T193000Z
+DTEND:20270218T223000Z
+SUMMARY:almost monday
+LOCATION:Sala Razzmatazz 2\, Barcelona
+URL:https://www.ticketmaster.es/event/almost-monday-thank-god-its-almost-mo
+ nday-tour-entradas/555895894
+END:VEVENT
+BEGIN:VEVENT
+UID:a99fc2abbf26a3bd@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270218T200000Z
+DTEND:20270218T230000Z
+SUMMARY:Siempre Héroes
+LOCATION:Sala Razzmatazz\, Barcelona
+URL:https://www.ticketmaster.es/event/siempre-heroes-entradas/1361132302
+END:VEVENT
+BEGIN:VEVENT
+UID:73d59db36a30d68e@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270224T200000Z
+DTEND:20270224T230000Z
+SUMMARY:Henge
+LOCATION:Sala Upload - Poble Espanyol\, Barcelona
+URL:https://www.ticketmaster.es/event/henge-entradas/2622331
+END:VEVENT
+BEGIN:VEVENT
+UID:3a4c99c6ad3c933a@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270225T200000Z
+DTEND:20270225T230000Z
+SUMMARY:Vida Records & Friends\, Socunbohemio
+LOCATION:Sala Apolo\, Barcelona
+URL:https://www.ticketmaster.es/event/vida-records--friends-socunbohemio-en
+ tradas/1389615788
+END:VEVENT
+BEGIN:VEVENT
+UID:0d4a9ccf064d7294@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270301T193000Z
+DTEND:20270301T223000Z
+SUMMARY:Julia Jacklin
+LOCATION:La 2 de Apolo\, Barcelona
+URL:https://www.ticketmaster.es/event/julia-jacklin-entradas/232671296
+END:VEVENT
+BEGIN:VEVENT
+UID:5f224c6581b75bad@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270304T200000Z
+DTEND:20270304T230000Z
+SUMMARY:Vida Records & Friends\, Parquesvr
+LOCATION:Sala Razzmatazz 1\, Barcelona
+URL:https://www.ticketmaster.es/event/vida-records--friends-2027-parquesvr-
+ entradas/2023530977
+END:VEVENT
+BEGIN:VEVENT
+UID:23e1c7eb36eb9a0f@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270310T193000Z
+DTEND:20270310T223000Z
+SUMMARY:The Warning
+LOCATION:Sant Jordi Club\, Barcelona
+URL:https://www.ticketmaster.es/event/the-warning-everythings-falling-world
+ -tour-entradas/1301141988
+END:VEVENT
+BEGIN:VEVENT
+UID:e5a18d97965def64@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Moonspell\, Iotunn\, TodoMal
+LOCATION:Sala Razzmatazz 2\, Barcelona
+URL:https://www.ticketmaster.es/event/moonspell--iotunn--todomal-entradas/2
+ 011958618
+END:VEVENT
+BEGIN:VEVENT
+UID:b9354a268129f7c6@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270315T193000Z
+DTEND:20270315T223000Z
+SUMMARY:KALEO
+LOCATION:Sala Razzmatazz 1\, Barcelona
+URL:https://www.ticketmaster.es/event/kaleo-way-down-we-go-tour-entradas/44
+ 9488343
+END:VEVENT
+BEGIN:VEVENT
+UID:a40c60fa914f6436@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270316T193000Z
+DTEND:20270316T223000Z
+SUMMARY:Squeeze
+LOCATION:Sala Apolo\, Barcelona
+URL:https://www.ticketmaster.es/event/squeeze-entradas/1020268466
+END:VEVENT
+BEGIN:VEVENT
+UID:2c8ff2b130afab5d@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270322T193000Z
+DTEND:20270322T223000Z
+SUMMARY:Blanco White
+LOCATION:Paral·lel 62\, Barcelona
+URL:https://www.ticketmaster.es/event/blanco-white-uk--europe-2027-tour-ent
+ radas/1914118985
+END:VEVENT
+BEGIN:VEVENT
+UID:2fd30963a1fe7cf1@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270329T190000Z
+DTEND:20270329T220000Z
+SUMMARY:SIENNA SPIRO
+LOCATION:Paral·lel 62\, Barcelona
+URL:https://www.ticketmaster.es/event/sienna-spiro-my-house-tour-entradas/2
+ 075107353
+END:VEVENT
+BEGIN:VEVENT
+UID:a4434ecc6a9766a2@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270402T190000Z
+DTEND:20270402T220000Z
+SUMMARY:Michael Foster
+LOCATION:Sala Razzmatazz 2\, Barcelona
+URL:https://www.ticketmaster.es/event/michael-foster-entradas/1438654365
+END:VEVENT
+BEGIN:VEVENT
+UID:3a7998c866d2db2d@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270407T183000Z
+DTEND:20270407T213000Z
+SUMMARY:Jake Bugg
+LOCATION:La Paloma\, Barcelona
+URL:https://www.ticketmaster.es/event/jake-bugg-alamo--solo-acoustic-tour-e
+ ntradas/1973664608
+END:VEVENT
+BEGIN:VEVENT
+UID:d8abc0104c8d4dfe@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270409T190000Z
+DTEND:20270409T220000Z
+SUMMARY:La Adictiva
+LOCATION:Sala Razzmatazz 1\, Barcelona
+URL:https://www.ticketmaster.es/event/la-adictiva-haciendo-historia-entrada
+ s/49562214
+END:VEVENT
+BEGIN:VEVENT
+UID:b06fdfe7d404139d@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270420T183000Z
+DTEND:20270420T213000Z
+SUMMARY:WARHAUS
+LOCATION:Sala Razzmatazz 2\, Barcelona
+URL:https://www.ticketmaster.es/event/warhaus-entradas/2075332213
+END:VEVENT
+BEGIN:VEVENT
+UID:825e39dce174e8e1@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270428T190000Z
+DTEND:20270428T220000Z
+SUMMARY:Angèle
+LOCATION:Sant Jordi Club\, Barcelona
+URL:https://www.ticketmaster.es/event/angele-instinct-tour-entradas/2057384
+ 148
+END:VEVENT
+BEGIN:VEVENT
+UID:a73316e154a72b5d@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270428T190000Z
+DTEND:20270428T220000Z
+SUMMARY:Opus Kink
+LOCATION:Sala Upload - Poble Espanyol\, Barcelona
+URL:https://www.ticketmaster.es/event/opus-kink-entradas/1999277095
+END:VEVENT
+BEGIN:VEVENT
+UID:6c31c8088021c66a@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270501T181500Z
+DTEND:20270501T211500Z
+SUMMARY:Olivia Rodrigo\, Die Spitz
+LOCATION:Palau Sant Jordi\, Barcelona
+URL:https://www.ticketmaster.es/event/olivia-rodrigo-the-unraveled-tour-ent
+ radas/515318918
+END:VEVENT
+BEGIN:VEVENT
+UID:a82bb40813165efa@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270502T181500Z
+DTEND:20270502T211500Z
+SUMMARY:Olivia Rodrigo\, Die Spitz
+LOCATION:Palau Sant Jordi\, Barcelona
+URL:https://www.ticketmaster.es/event/olivia-rodrigo-the-unraveled-tour-ent
+ radas/436032987
+END:VEVENT
+END:VCALENDAR
