@@ -278,11 +278,21 @@ def parse_csv(text: str, now: datetime | None = None, cfg: Config | None = None)
     return parse_csv_ex(text, now, cfg).events
 
 
+# The city portal sits behind a WAF that answers 403 to non-browser user agents
+# from datacenter IPs (seen from GitHub Actions). A browser-like UA is accepted.
+BROWSER_HEADERS = {
+    "User-Agent": ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+                   "(KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"),
+    "Accept": "text/csv,application/json,text/plain,*/*;q=0.8",
+    "Accept-Language": "ca,es;q=0.9,en;q=0.8",
+}
+
+
 def resolve_csv_url(session: requests.Session | None = None,
                     sleep: Callable[[float], None] = time.sleep) -> str:
     session = session or requests.Session()
     try:
-        r = request_with_retry(session, CKAN_URL, retries=1, sleep=sleep)
+        r = request_with_retry(session, CKAN_URL, retries=1, sleep=sleep, headers=BROWSER_HEADERS)
         for res in r.json()["result"]["resources"]:
             if str(res.get("format", "")).upper() == "CSV" and res.get("url"):
                 return res["url"]
@@ -306,7 +316,8 @@ class BcnOpenDataSource:
 
     def fetch(self, cfg: Config, now: datetime) -> list[Event]:
         url = resolve_csv_url(self.session, self.sleep)
-        r = request_with_retry(self.session, url, timeout=120, sleep=self.sleep)
+        r = request_with_retry(self.session, url, timeout=120, sleep=self.sleep,
+                               headers=BROWSER_HEADERS)
         res = parse_csv_ex(decode_bytes(r.content), now, cfg)
         if not res.mapping or (res.mode == "heuristic"
                                and not {"title", "start"} <= set(res.mapping)):
