@@ -316,8 +316,14 @@ class BcnOpenDataSource:
 
     def fetch(self, cfg: Config, now: datetime) -> list[Event]:
         url = resolve_csv_url(self.session, self.sleep)
-        r = request_with_retry(self.session, url, timeout=120, sleep=self.sleep,
-                               headers=BROWSER_HEADERS)
+        try:
+            r = request_with_retry(self.session, url, timeout=120, sleep=self.sleep,
+                                   headers=BROWSER_HEADERS)
+        except SourceError as e:
+            if "403" in str(e):
+                raise SourceError("HTTP 403: the city portal blocks this network "
+                                  "(GitHub Actions IPs); works from a home network") from e
+            raise
         res = parse_csv_ex(decode_bytes(r.content), now, cfg)
         if not res.mapping or (res.mode == "heuristic"
                                and not {"title", "start"} <= set(res.mapping)):
