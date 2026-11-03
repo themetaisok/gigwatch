@@ -1,0 +1,187 @@
+{
+  "_embedded": {
+    "events": [
+      {
+        "name": "Floating Points",
+        "type": "event",
+        "id": "tm-004",
+        "locale": "en-us",
+        "dates": {
+          "start": {
+            "localDate": "2026-12-12",
+            "dateTBD": false,
+            "timeTBA": true
+          },
+          "timezone": "Europe/Madrid",
+          "status": {
+            "code": "onsale"
+          }
+        },
+        "classifications": [
+          {
+            "primary": true,
+            "segment": {
+              "name": "Music"
+            },
+            "genre": {
+              "name": "Dance/Electronic"
+            },
+            "subGenre": {
+              "name": "House"
+            }
+          }
+        ],
+        "_embedded": {
+          "venues": [
+            {
+              "name": "Sala Apolo",
+              "id": "KovZSal",
+              "city": {
+                "name": "Barcelona"
+              },
+              "country": {
+                "countryCode": "ES"
+              },
+              "location": {
+                "latitude": "41.3745",
+                "longitude": "2.1695"
+              }
+            }
+          ],
+          "attractions": [
+            {
+              "name": "Floating Points",
+              "id": "K8Flo"
+            }
+          ]
+        },
+        "url": "https://www.ticketmaster.es/event/004"
+      },
+      {
+        "name": "Dixon - Night Session",
+        "type": "event",
+        "id": "tm-005",
+        "locale": "en-us",
+        "dates": {
+          "start": {
+            "localDate": "2026-12-19",
+            "localTime": "23:00:00",
+            "dateTime": "2026-12-19T22:00:00Z",
+            "dateTBD": false,
+            "timeTBA": false,
+            "noSpecificTime": false
+          },
+          "timezone": "Europe/Madrid",
+          "status": {
+            "code": "onsale"
+          }
+        },
+        "classifications": [
+          {
+            "primary": true,
+            "segment": {
+              "name": "Music"
+            },
+            "genre": {
+              "name": "Dance/Electronic"
+            },
+            "subGenre": {
+              "name": "House"
+            }
+          }
+        ],
+        "_embedded": {
+          "venues": [
+            {
+              "name": "Razzmatazz",
+              "id": "KovZRaz",
+              "city": {
+                "name": "Barcelona"
+              },
+              "country": {
+                "countryCode": "ES"
+              }
+            }
+          ],
+          "attractions": [
+            {
+              "name": "Dixon",
+              "id": "K8Dix"
+            }
+          ]
+        },
+        "url": "https://www.ticketmaster.es/event/005"
+      },
+      {
+        "name": "Peggy Gou Madrid",
+        "type": "event",
+        "id": "tm-006",
+        "locale": "en-us",
+        "dates": {
+          "start": {
+            "localDate": "2027-01-15",
+            "localTime": "21:00:00",
+            "dateTime": "2027-01-15T20:00:00Z",
+            "dateTBD": false,
+            "timeTBA": false,
+            "noSpecificTime": false
+          },
+          "timezone": "Europe/Madrid",
+          "status": {
+            "code": "onsale"
+          }
+        },
+        "classifications": [
+          {
+            "primary": true,
+            "segment": {
+              "name": "Music"
+            },
+            "genre": {
+              "name": "Dance/Electronic"
+            },
+            "subGenre": {
+              "name": "House"
+            }
+          }
+        ],
+        "_embedded": {
+          "venues": [
+            {
+              "name": "WiZink Center",
+              "id": "KovZWiZ",
+              "city": {
+                "name": "Madrid"
+              },
+              "country": {
+                "countryCode": "ES"
+              },
+              "location": {
+                "latitude": "40.4237",
+                "longitude": "-3.6717"
+              }
+            }
+          ],
+          "attractions": [
+            {
+              "name": "Peggy Gou",
+              "id": "K8Peg"
+            }
+          ]
+        },
+        "url": "https://www.ticketmaster.es/event/006"
+      }
+    ]
+  },
+  "_links": {
+    "self": {
+      "href": "/discovery/v2/events.json?page=1"
+    }
+  },
+  "page": {
+    "size": 200,
+    "totalElements": 6,
+    "totalPages": 2,
+    "number": 1
+  }
+}

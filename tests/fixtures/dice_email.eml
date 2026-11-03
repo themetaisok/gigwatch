@@ -1,0 +1,21 @@
+From: DICE <hello@mail.dice.fm>
+To: me@example.com
+Subject: Dixon just announced a show
+Message-ID: <dice-0001@dice.fm>
+Date: Tue, 03 Nov 2026 09:00:00 +0100
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="gw-boundary"
+
+--gw-boundary
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+Dixon has announced a new show in Barcelona. https://dice.fm/artist/dixon
+--gw-boundary
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<html><body><p>Dixon has announced a new show in Barcelona. Tickets drop soon, follow to be first.</p>
+<p><a href="https://dice.fm/artist/dixon?utm_campaign=announce&mc_cid=abc">See Dixon on DICE</a></p>
+<p><a href="https://dice.fm/preferences">Email preferences</a></p></body></html>
+--gw-boundary--

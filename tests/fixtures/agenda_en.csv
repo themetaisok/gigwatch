@@ -1,0 +1,5 @@
+title,description,start_date,end_date,venue,address,latitude,longitude,url,category
+Peggy Gou,"DJ set, all night",2026-11-21 23:00:00,2026-11-22 05:00:00,Sala Razzmatazz,Carrer de Pamplona 88,41.3979,2.1917,https://example.org/peggy,Music / Concerts
+Nitsa Night,Techno,15/12/2026 21:00,,Sala Apolo,Nou de la Rambla 113,41.3745,2.1695,https://example.org/nitsa,Club night
+Miro retrospective,Paintings,2026-12-01,2027-02-01,Fundacio Miro,Parc de Montjuic,41.36,2.16,https://example.org/miro,Exhibition
+Mystery gig,Date unknown,not a date,,Somewhere,,,,,Music

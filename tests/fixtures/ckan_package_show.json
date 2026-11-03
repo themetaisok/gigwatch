@@ -1,0 +1,21 @@
+{
+  "help": "https://opendata-ajuntament.barcelona.cat/data/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "id": "2767159c-1c98-46b8-a686-2b25b40cb053",
+    "name": "agenda-cultural",
+    "resources": [
+      {
+        "id": "x1",
+        "format": "XML",
+        "url": "https://opendata-ajuntament.barcelona.cat/data/dataset/agenda/resource/xml/download"
+      },
+      {
+        "id": "3abb2414-1ee0-446e-9c25-380e938adb73",
+        "format": "csv",
+        "name": "Agenda cultural (CSV)",
+        "url": "https://opendata-ajuntament.barcelona.cat/data/dataset/2767159c-1c98-46b8-a686-2b25b40cb053/resource/3abb2414-1ee0-446e-9c25-380e938adb73/download"
+      }
+    ]
+  }
+}

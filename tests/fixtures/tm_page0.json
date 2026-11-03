@@ -1,0 +1,200 @@
+{
+  "_embedded": {
+    "events": [
+      {
+        "name": "Peggy Gou",
+        "type": "event",
+        "id": "tm-001",
+        "locale": "en-us",
+        "dates": {
+          "start": {
+            "localDate": "2026-11-21",
+            "localTime": "23:00:00",
+            "dateTime": "2026-11-21T22:00:00Z",
+            "dateTBD": false,
+            "timeTBA": false,
+            "noSpecificTime": false
+          },
+          "timezone": "Europe/Madrid",
+          "status": {
+            "code": "onsale"
+          }
+        },
+        "classifications": [
+          {
+            "primary": true,
+            "segment": {
+              "name": "Music"
+            },
+            "genre": {
+              "name": "Dance/Electronic"
+            },
+            "subGenre": {
+              "name": "House"
+            }
+          }
+        ],
+        "_embedded": {
+          "venues": [
+            {
+              "name": "Razzmatazz",
+              "id": "KovZRaz",
+              "city": {
+                "name": "Barcelona"
+              },
+              "country": {
+                "countryCode": "ES"
+              },
+              "location": {
+                "latitude": "41.39778",
+                "longitude": "2.19167"
+              }
+            }
+          ],
+          "attractions": [
+            {
+              "name": "Peggy Gou",
+              "id": "K8Peg"
+            }
+          ]
+        },
+        "url": "https://www.ticketmaster.es/event/001",
+        "sales": {
+          "public": {
+            "startDateTime": "2026-10-01T09:00:00Z",
+            "startTBD": false
+          }
+        }
+      },
+      {
+        "name": "Dixon Brothers Live",
+        "type": "event",
+        "id": "tm-002",
+        "locale": "en-us",
+        "dates": {
+          "start": {
+            "localDate": "2026-11-25",
+            "localTime": "20:00:00",
+            "dateTime": "2026-11-25T19:00:00Z",
+            "dateTBD": false,
+            "timeTBA": false,
+            "noSpecificTime": false
+          },
+          "timezone": "Europe/Madrid",
+          "status": {
+            "code": "onsale"
+          }
+        },
+        "classifications": [
+          {
+            "primary": true,
+            "segment": {
+              "name": "Music"
+            },
+            "genre": {
+              "name": "Country"
+            },
+            "subGenre": {
+              "name": "Folk"
+            }
+          }
+        ],
+        "_embedded": {
+          "venues": [
+            {
+              "name": "Teatre Coliseum",
+              "id": "KovZTea",
+              "city": {
+                "name": "Barcelona"
+              },
+              "country": {
+                "countryCode": "ES"
+              },
+              "location": {
+                "latitude": "41.3876",
+                "longitude": "2.1702"
+              }
+            }
+          ],
+          "attractions": [
+            {
+              "name": "Dixon Brothers",
+              "id": "K8Dix"
+            }
+          ]
+        },
+        "url": "https://www.ticketmaster.es/event/002"
+      },
+      {
+        "name": "Dixon",
+        "type": "event",
+        "id": "tm-003",
+        "locale": "en-us",
+        "dates": {
+          "start": {
+            "localDate": "2026-12-05",
+            "localTime": "23:00:00",
+            "dateTime": "2026-12-05T22:00:00Z",
+            "dateTBD": false,
+            "timeTBA": false,
+            "noSpecificTime": false
+          },
+          "timezone": "Europe/Madrid",
+          "status": {
+            "code": "cancelled"
+          }
+        },
+        "classifications": [
+          {
+            "primary": true,
+            "segment": {
+              "name": "Music"
+            },
+            "genre": {
+              "name": "Dance/Electronic"
+            },
+            "subGenre": {
+              "name": "House"
+            }
+          }
+        ],
+        "_embedded": {
+          "venues": [
+            {
+              "name": "Sala Apolo",
+              "id": "KovZSal",
+              "city": {
+                "name": "Barcelona"
+              },
+              "country": {
+                "countryCode": "ES"
+              },
+              "location": {
+                "latitude": "41.3745",
+                "longitude": "2.1695"
+              }
+            }
+          ],
+          "attractions": [
+            {
+              "name": "Dixon",
+              "id": "K8Dix"
+            }
+          ]
+        },
+        "url": "https://www.ticketmaster.es/event/003"
+      }
+    ]
+  },
+  "_links": {
+    "self": {
+      "href": "/discovery/v2/events.json?page=0"
+    }
+  },
+  "page": {
+    "size": 200,
+    "totalElements": 6,
+    "totalPages": 2,
+    "number": 0
+  }
+}

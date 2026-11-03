@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:idx="urn:atom-extension:indexing" idx:index="no">
+  <id>tag:google.com,2005:reader/user/0/state/com.google/alerts/1234</id>
+  <title>Google Alert - Floating Points Barcelona</title>
+  <updated>2026-11-03T08:00:00Z</updated>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:1111</id>
+    <title type="html">&lt;b&gt;Floating Points&lt;/b&gt; adds second Barcelona date</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://example.com/floating-points-bcn&amp;ct=ga&amp;cd=xyz"/>
+    <published>2026-11-03T07:00:00Z</published>
+    <updated>2026-11-03T07:00:00Z</updated>
+    <content type="html">&lt;b&gt;Floating Points&lt;/b&gt; will play a second night in Barcelona after the first sold out.</content>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:2222</id>
+    <title type="html">New cheese market opens in Valencia</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://example.com/cheese&amp;ct=ga"/>
+    <published>2026-11-03T06:00:00Z</published>
+    <updated>2026-11-03T06:00:00Z</updated>
+    <content type="html">A new market for artisan cheese opens this week.</content>
+  </entry>
+</feed>

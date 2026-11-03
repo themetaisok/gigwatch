@@ -1,0 +1,24 @@
+From: Resident Advisor <noreply@ra.co>
+To: me@example.com
+Subject: Peggy Gou is playing Razzmatazz
+Message-ID: <ra-0001@ra.co>
+Date: Tue, 03 Nov 2026 09:00:00 +0100
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="gw-boundary"
+
+--gw-boundary
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+Peggy Gou is playing Barcelona. Sat, 21 Nov 2026 at 23:00. https://ra.co/events/1234567
+--gw-boundary
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<html><head><style>p{color:red}</style></head><body>
+<p><a href="https://click.mailer.example/o?u=abc&utm_source=x">View in browser</a></p>
+<h1>Peggy Gou is playing Barcelona</h1>
+<p>Sat, 21 Nov 2026 at 23:00 &middot; Razzmatazz, Barcelona</p>
+<p><a href="https://ra.co/events/1234567?utm_source=email&utm_medium=notification&fbclid=XYZ&ref=mail">Get tickets</a></p>
+<p><a href="https://ra.co/unsubscribe?token=1">Unsubscribe</a></p></body></html>
+--gw-boundary--

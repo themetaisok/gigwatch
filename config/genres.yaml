@@ -1,0 +1,8 @@
+# Ticketmaster genre / sub-genre names that make any matching event a "maybe".
+# Leave empty to rely on artists, venues and promoters only.
+# Example:
+#   ticketmaster_genres:
+#     - "Dance/Electronic"
+#     - "Techno"
+#     - "House"
+ticketmaster_genres: []

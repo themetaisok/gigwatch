@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//club//EN
+BEGIN:VEVENT
+UID:evt1@club.example
+SUMMARY:Dixon @ Sala Apolo
+DTSTART;TZID=Europe/Madrid:20261128T233000
+DTEND;TZID=Europe/Madrid:20261129T060000
+LOCATION:Sala Apolo\, Carrer Nou de la Rambla 113\, Barcelona
+URL:https://club.example/dixon
+DESCRIPTION:All night long with Dixon. A very long description line that must be
+  folded across several lines by the producer\, with a comma and a semicolon\; ok.
+END:VEVENT
+BEGIN:VEVENT
+UID:evt2@club.example
+SUMMARY:Floating Points at Sala But
+DTSTART:20261205T210000Z
+LOCATION:Sala But\, Madrid
+DESCRIPTION:Tickets https://club.example/madrid-fp now
+END:VEVENT
+BEGIN:VEVENT
+UID:evt3@club.example
+SUMMARY:Launch party
+DTSTART;VALUE=DATE:20261210
+LOCATION:Barcelona
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,7 @@
+home: {lat: 41.3874, lon: 2.1686, radius_km: 150}
+horizon_days: 180
+maybe_digest: {weekday: 1, hour_local: 9}
+max_immediate: 15
+feeds:
+  - {name: "Google Alerts: Floating Points", url: "https://alerts.example.test/feed.xml", tier_default: maybe}
+  - {name: "Club calendar", url: "webcal://calendar.example.test/venue.ics"}

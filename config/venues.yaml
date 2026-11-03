@@ -1,0 +1,161 @@
+# Venues: any event here is at least a "maybe". Aliases are matched on normalised names.
+# lat/lon are approximate and only used when a source gives no coordinates.
+- name: Nitsa
+  aliases:
+  - Sala Apolo
+  - Apolo
+  - La [2] de Apolo
+  - La 2 de Apolo
+  - Nitsa Club
+  city: Barcelona
+  lat: 41.3745
+  lon: 2.1695
+  tier: maybe
+- name: Razzmatazz
+  aliases:
+  - Razz
+  - The Loft
+  - Sala Razzmatazz
+  - Lolita
+  - Pop Bar
+  - Razzmatazz 2
+  - Sala Razzmatazz 1
+  - Sala Razzmatazz 2
+  - Razzmatazz 3
+  - Sala Razzmatazz 3
+  city: Barcelona
+  lat: 41.3979
+  lon: 2.1917
+  tier: maybe
+- name: Input
+  aliases:
+  - Input Barcelona
+  - Sala Input
+  city: Barcelona
+  lat: 41.3687
+  lon: 2.1469
+  tier: maybe
+- name: Moog
+  aliases:
+  - Sala Moog
+  city: Barcelona
+  lat: 41.3768
+  lon: 2.1741
+  tier: maybe
+- name: Laut
+  aliases:
+  - Sala Laut
+  city: Barcelona
+  tier: maybe
+- name: Macarena Club
+  aliases:
+  - Macarena
+  city: Barcelona
+  lat: 41.3794
+  lon: 2.176
+  tier: maybe
+- name: Sala Upload
+  aliases:
+  - Upload
+  - Sala Upload - Poble Espanyol
+  city: Barcelona
+  tier: maybe
+- name: Paral·lel 62
+  aliases:
+  - Paralelo 62
+  - Paral lel 62
+  city: Barcelona
+  lat: 41.375
+  lon: 2.169
+  tier: maybe
+- name: La Paloma
+  city: Barcelona
+  lat: 41.383
+  lon: 2.1665
+  tier: maybe
+- name: Sidecar
+  aliases:
+  - Sidecar Factory Club
+  city: Barcelona
+  lat: 41.38
+  lon: 2.175
+  tier: maybe
+- name: Sala Bikini
+  aliases:
+  - Bikini
+  city: Barcelona
+  lat: 41.3877
+  lon: 2.1345
+  tier: maybe
+- name: Sala Wolf
+  aliases:
+  - Wolf Barcelona
+  - Wolf
+  - WOLF
+  city: Barcelona
+  tier: maybe
+- name: Jamboree
+  aliases:
+  - Jamboree Jazz Club
+  city: Barcelona
+  lat: 41.3799
+  lon: 2.1752
+  tier: maybe
+- name: Sant Jordi Club
+  city: Barcelona
+  lat: 41.364
+  lon: 2.1527
+  tier: maybe
+- name: Palau Sant Jordi
+  city: Barcelona
+  lat: 41.3643
+  lon: 2.1531
+  tier: maybe
+- name: Parc del Fòrum
+  aliases:
+  - Parc del Forum
+  city: Barcelona
+  lat: 41.4108
+  lon: 2.2217
+  tier: maybe
+- name: Poble Espanyol
+  city: Barcelona
+  lat: 41.3687
+  lon: 2.1469
+  tier: maybe
+- name: Pacha Barcelona
+  aliases:
+  - Pacha
+  city: Barcelona
+  lat: 41.3869
+  lon: 2.1976
+  tier: maybe
+- name: Sutton
+  aliases:
+  - Sutton Club
+  city: Barcelona
+  lat: 41.3955
+  lon: 2.15
+  tier: maybe
+- name: Opium
+  aliases:
+  - Opium Barcelona
+  city: Barcelona
+  lat: 41.3865
+  lon: 2.197
+  tier: maybe
+- name: Marula Café
+  aliases:
+  - Marula Cafe
+  city: Barcelona
+  lat: 41.379
+  lon: 2.1765
+  tier: maybe
+- name: Sala Vol
+  city: Barcelona
+  tier: maybe
+- name: Fabra i Coats
+  city: Barcelona
+  lat: 41.4333
+  lon: 2.1912
+  tier: maybe

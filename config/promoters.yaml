@@ -1,0 +1,24 @@
+# Promoters and festivals: matched as whole words in titles and descriptions -> "maybe".
+- name: Brunch Electronik
+  aliases:
+  - Brunch Electronik Barcelona
+- name: Brunch in the Park
+- name: Primavera Sound
+- name: Sónar
+  aliases:
+  - Sonar
+- name: Sónar by Night
+  aliases:
+  - Sonar by Night
+- name: Off Week
+  aliases:
+  - OFFWeek
+- name: Cruïlla
+  aliases:
+  - Cruilla
+- name: Mira Festival
+  aliases:
+  - MIRA Festival
+- name: Elrow
+- name: Barcelona Beach Festival
+- name: Share Festival

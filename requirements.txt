@@ -1,0 +1,5 @@
+requests==2.34.2
+PyYAML==6.0.3
+feedparser==6.0.14
+python-dateutil==4.0.0
+RapidFuzz==3.14.6

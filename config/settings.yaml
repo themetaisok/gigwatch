@@ -1,0 +1,55 @@
+# gigwatch settings. Everything except `home` is optional.
+home:
+  lat: 41.3874
+  lon: 2.1686
+  radius_km: 150
+timezone: Europe/Madrid
+horizon_days: 180
+region_keywords:
+  - Barcelona
+  - Badalona
+  - "L'Hospitalet"
+  - Hospitalet
+  - Sitges
+  - Girona
+  - Tarragona
+  - Lleida
+  - Mataró
+  - Terrassa
+  - Sabadell
+  - Vilanova
+  - Reus
+  - Salou
+  - Montmeló
+  - Cornellà
+  - Sant Cugat
+  - Granollers
+  - Santa Coloma
+  - Castelldefels
+  - Viladecans
+  - Gavà
+  - El Prat
+  - Sant Adrià
+  - Catalunya
+  - Cataluña
+  - Catalonia
+# Extra place names to treat as "near home" (merged with region_keywords).
+extra_region_keywords: []
+# Cities that are NOT near home. An email/feed item that names one of these (and no region
+# keyword) can only be a heads-up in the digest, never an instant alert.
+non_region_cities: [Madrid, Valencia, Sevilla, Bilbao, Zaragoza, Málaga, Ibiza, Lisboa, Lisbon, Paris, London, Berlin, Amsterdam, Milan, Milano, Roma, Rome, Porto, Mallorca, Palma]
+maybe_digest:
+  weekday: 1      # ISO: Monday=1 ... Sunday=7
+  hour_local: 9
+min_lead_days_warning: 2
+quiet: false      # true suppresses reminders and on-sale pings (not first-sight alerts)
+max_immediate: 15
+# RSS/Atom feeds produce "heads-up" items; .ics / webcal:// URLs produce real events.
+# Example Google Alerts RSS entry (create the alert at google.com/alerts, deliver to "RSS feed"):
+# feeds:
+#   - name: "Google Alerts: techno Barcelona"
+#     url: "https://www.google.com/alerts/feeds/00000000000000000000/0000000000000000000"
+#     tier_default: maybe
+#     immediate: false   # true = a must-see artist in this feed alerts instantly (default: digest)
+feeds: []
+source_priority: [ticketmaster, bcn_opendata, bandsintown, inbox, feeds]

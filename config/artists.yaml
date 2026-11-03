@@ -1,0 +1,91 @@
+# Followed artists. tier: must-see (instant alert) or maybe (weekly digest).
+# Optional keys: aliases, exclude (phrases that void a match), spotify_id, notes,
+# title_match: how much a hit found only in the event TITLE is worth (must-see | maybe | off).
+#   Use "maybe" for names that are also common words (Jungle, Arca, ...), so they go to the digest.
+- name: Peggy Gou
+  tier: must-see
+- name: Dixon
+  tier: must-see
+  exclude:
+  - dixon brothers
+- name: Âme
+  tier: must-see
+  aliases:
+  - Ame
+- name: Solomun
+  tier: must-see
+- name: Honey Dijon
+  tier: must-see
+- name: Jamie xx
+  tier: must-see
+- name: Four Tet
+  tier: must-see
+- name: Floating Points
+  tier: must-see
+- name: Bicep
+  tier: must-see
+  title_match: maybe
+- name: Overmono
+  tier: must-see
+- name: Fred again..
+  tier: must-see
+- name: Caribou
+  tier: must-see
+  title_match: maybe
+- name: Ben UFO
+  tier: must-see
+- name: Helena Hauff
+  tier: must-see
+- name: Nina Kraviz
+  tier: must-see
+- name: Amelie Lens
+  tier: must-see
+- name: Charlotte de Witte
+  tier: must-see
+- name: Marcel Dettmann
+  tier: must-see
+- name: DJ Koze
+  tier: must-see
+- name: Ricardo Villalobos
+  tier: must-see
+- name: Maceo Plex
+  tier: must-see
+- name: Paul Kalkbrenner
+  tier: must-see
+- name: John Talabot
+  tier: must-see
+- name: Fontaines D.C.
+  tier: must-see
+  aliases:
+  - Fontaines DC
+- name: IDLES
+  tier: must-see
+- name: Khruangbin
+  tier: must-see
+- name: Mogwai
+  tier: must-see
+- name: Arca
+  tier: must-see
+  title_match: maybe
+- name: Jungle
+  tier: must-see
+  title_match: maybe
+- name: Róisín Murphy
+  tier: must-see
+- name: Hot Chip
+  tier: must-see
+- name: Jamie Jones
+  tier: must-see
+- name: Seth Troxler
+  tier: must-see
+- name: Black Coffee
+  tier: must-see
+  title_match: maybe
+- name: Keinemusik
+  tier: must-see
+- name: Adam Beyer
+  tier: must-see
+- name: Richie Hawtin
+  tier: must-see
+- name: Carl Cox
+  tier: must-see
