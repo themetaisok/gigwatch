@@ -4,16 +4,6 @@ PRODID:-//gigwatch//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:gigwatch
 BEGIN:VEVENT
-UID:a7f4ebdcf2af5506@gigwatch
-DTSTAMP:20261103T234455Z
-DTSTART:20261105T183000Z
-DTEND:20261105T213000Z
-SUMMARY:Michael Schenker Group
-LOCATION:Sala Razzmatazz 1\, Barcelona
-URL:https://www.ticketmaster.es/event/michael-schenker-msg-feat-robin-mcaul
- ey-entradas/2073529778
-END:VEVENT
-BEGIN:VEVENT
 UID:b0ae8fc6a39bb793@gigwatch
 DTSTAMP:20261103T234455Z
 DTSTART:20261106T190000Z
