@@ -550,6 +550,15 @@ LOCATION:La 2 de Apolo\, Barcelona
 URL:https://www.ticketmaster.es/event/julia-jacklin-entradas/232671296
 END:VEVENT
 BEGIN:VEVENT
+UID:45cac677d59f66bf@gigwatch
+DTSTAMP:20261106T164947Z
+DTSTART:20270304T200000Z
+DTEND:20270304T230000Z
+SUMMARY:Wisin
+LOCATION:Sant Jordi Club\, Barcelona
+URL:https://www.ticketmaster.es/event/wisin-entradas/262990245
+END:VEVENT
+BEGIN:VEVENT
 UID:5f224c6581b75bad@gigwatch
 DTSTAMP:20261103T234455Z
 DTSTART:20270304T200000Z
