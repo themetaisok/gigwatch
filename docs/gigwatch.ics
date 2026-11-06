@@ -4,16 +4,6 @@ PRODID:-//gigwatch//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:gigwatch
 BEGIN:VEVENT
-UID:b0ae8fc6a39bb793@gigwatch
-DTSTAMP:20261103T234455Z
-DTSTART:20261106T190000Z
-DTEND:20261106T220000Z
-SUMMARY:Romanthica\, Lex Lüger
-LOCATION:Razzmatazz 3\, Barcelona
-URL:https://www.ticketmaster.es/event/romanthica--lex-luger-entradas/136147
- 4269
-END:VEVENT
-BEGIN:VEVENT
 UID:5e9d8e93085c33df@gigwatch
 DTSTAMP:20261103T234455Z
 DTSTART:20261107T190000Z
@@ -703,5 +693,15 @@ SUMMARY:Olivia Rodrigo\, Die Spitz
 LOCATION:Palau Sant Jordi\, Barcelona
 URL:https://www.ticketmaster.es/event/olivia-rodrigo-the-unraveled-tour-ent
  radas/436032987
+END:VEVENT
+BEGIN:VEVENT
+UID:5826067368fb797f@gigwatch
+DTSTAMP:20261106T231517Z
+DTSTART:20270505T181500Z
+DTEND:20270505T211500Z
+SUMMARY:Olivia Rodrigo\, Die Spitz
+LOCATION:Palau Sant Jordi\, Barcelona
+URL:https://www.ticketmaster.es/event/olivia-rodrigo-the-unraveled-tour-ent
+ radas/2022065084
 END:VEVENT
 END:VCALENDAR
