@@ -704,4 +704,14 @@ LOCATION:Palau Sant Jordi\, Barcelona
 URL:https://www.ticketmaster.es/event/olivia-rodrigo-the-unraveled-tour-ent
  radas/2022065084
 END:VEVENT
+BEGIN:VEVENT
+UID:cfb4440e57ac2152@gigwatch
+DTSTAMP:20261107T192849Z
+DTSTART:20270506T181500Z
+DTEND:20270506T211500Z
+SUMMARY:Olivia Rodrigo\, Die Spitz
+LOCATION:Palau Sant Jordi\, Barcelona
+URL:https://www.ticketmaster.es/event/olivia-rodrigo-the-unraveled-tour-ent
+ radas/408226519
+END:VEVENT
 END:VCALENDAR
