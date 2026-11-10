@@ -540,6 +540,15 @@ URL:https://www.ticketmaster.es/event/vida-records--friends-2027-parquesvr-
  entradas/2023530977
 END:VEVENT
 BEGIN:VEVENT
+UID:56e9b5f0ded2af44@gigwatch
+DTSTAMP:20261110T145949Z
+DTSTART:20270308T193000Z
+DTEND:20270308T223000Z
+SUMMARY:Chase Matthew
+LOCATION:La 2 de Apolo\, Barcelona
+URL:https://www.ticketmaster.es/event/chase-matthew-entradas/288844906
+END:VEVENT
+BEGIN:VEVENT
 UID:23e1c7eb36eb9a0f@gigwatch
 DTSTAMP:20261103T234455Z
 DTSTART:20270310T193000Z
