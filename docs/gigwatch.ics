@@ -80,15 +80,6 @@ LOCATION:Sala Upload - Poble Espanyol\, Barcelona
 URL:https://www.ticketmaster.es/event/sharp-pins-entradas/635116838
 END:VEVENT
 BEGIN:VEVENT
-UID:e326c071b73d75c1@gigwatch
-DTSTAMP:20261103T234455Z
-DTSTART:20261118T200000Z
-DTEND:20261118T230000Z
-SUMMARY:LAGOS
-LOCATION:Sala Razzmatazz 1\, Barcelona
-URL:https://www.ticketmaster.es/event/lagos-entradas/2031234774
-END:VEVENT
-BEGIN:VEVENT
 UID:44e9933226221200@gigwatch
 DTSTAMP:20261103T234455Z
 DTSTART:20261118T202000Z
@@ -527,6 +518,15 @@ DTEND:20270308T223000Z
 SUMMARY:Chase Matthew
 LOCATION:La 2 de Apolo\, Barcelona
 URL:https://www.ticketmaster.es/event/chase-matthew-entradas/288844906
+END:VEVENT
+BEGIN:VEVENT
+UID:e326c071b73d75c1@gigwatch
+DTSTAMP:20261103T234455Z
+DTSTART:20270309T193000Z
+DTEND:20270309T223000Z
+SUMMARY:LAGOS
+LOCATION:Sala Razzmatazz 1\, Barcelona
+URL:https://www.ticketmaster.es/event/lagos-entradas/2031234774
 END:VEVENT
 BEGIN:VEVENT
 UID:23e1c7eb36eb9a0f@gigwatch
