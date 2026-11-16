@@ -243,7 +243,7 @@ UID:3126b1a4aec42a90@gigwatch
 DTSTAMP:20261103T234455Z
 DTSTART:20270118T193000Z
 DTEND:20270118T223000Z
-SUMMARY:MICO
+SUMMARY:MICO\, Stevie Bill
 LOCATION:Sala Razzmatazz 1\, Barcelona
 URL:https://www.ticketmaster.es/event/mico-inbetween-tour-entradas/56693980
  5
@@ -645,5 +645,24 @@ SUMMARY:Olivia Rodrigo\, Die Spitz
 LOCATION:Palau Sant Jordi\, Barcelona
 URL:https://www.ticketmaster.es/event/olivia-rodrigo-the-unraveled-tour-ent
  radas/408226519
+END:VEVENT
+BEGIN:VEVENT
+UID:889193f259410731@gigwatch
+DTSTAMP:20261116T194042Z
+DTSTART:20270515T163000Z
+DTEND:20270515T193000Z
+SUMMARY:Baron Rojo\, Muro
+LOCATION:Sala Razzmatazz 1\, Barcelona
+URL:https://www.ticketmaster.es/event/baron-rojo--muro-entradas/1480390231
+END:VEVENT
+BEGIN:VEVENT
+UID:de0ce9307e918fd6@gigwatch
+DTSTAMP:20261116T194042Z
+DTSTART:20270515T183000Z
+DTEND:20270515T213000Z
+SUMMARY:La Ludwig Band
+LOCATION:Poble Espanyol\, Barcelona
+URL:https://www.ticketmaster.es/event/el-poble-de-la-ludwig-band-entradas/3
+ 03786168
 END:VEVENT
 END:VCALENDAR
