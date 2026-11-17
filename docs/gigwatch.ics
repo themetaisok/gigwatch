@@ -34,8 +34,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:44e9933226221200@gigwatch
 DTSTAMP:20261103T234455Z
-DTSTART:20261118T202000Z
-DTEND:20261118T232000Z
+DTSTART:20261118T200000Z
+DTEND:20261118T230000Z
 SUMMARY:Razorlight
 LOCATION:WOLF\, Barcelona
 URL:https://www.ticketmaster.es/event/razorlight-entradas/1756010057
@@ -153,6 +153,15 @@ SUMMARY:The Sheepdogs
 LOCATION:La 2 de Apolo\, Barcelona
 URL:https://www.ticketmaster.es/event/the-sheepdogs-out-all-night-tour-entr
  adas/1431066550
+END:VEVENT
+BEGIN:VEVENT
+UID:5fdfb98d72ebbb15@gigwatch
+DTSTAMP:20261117T161138Z
+DTSTART:20261205T225900Z
+DTEND:20261206T015900Z
+SUMMARY:Matinée Pervert
+LOCATION:Sala Input\, Barcelona
+URL:https://www.ticketmaster.es/event/matinee-pervert-entradas/430446576
 END:VEVENT
 BEGIN:VEVENT
 UID:e466fd0e2eae68da@gigwatch
